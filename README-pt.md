@@ -1,8 +1,8 @@
-<h1 align="left">Eae 👋 Tudo bem?</h1>
+<h1 align="left">Olá! 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">Bem-vindo a minha página!<br>Meu nome é Pedro Souza e sou um Analista de Dados</p>
+<p align="left">Bem-vindo a minha página!<br>Meu nome é Pedro Souza e sou um Analista de Dados!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou formado em Ciência da Computação e tenho mais de 6 anos de experiência no mercado de tecnologia com conhecimento em:<br>     - Data Analysis<br>     - Cloud Computing <br>     - User Support <br>     - IT Infrastructure<br><br>Through courses, projects as a freelancer and certifications, I gained knowledge in:<br>- SQL<br>- Excel<br>- Power BI<br>- Python<br>- ETL<br>- AWS<br>- Microsoft Power Platform<br>- Google Analytics<br>- JavaScript<br>- IAAS<br>- LGPD.</p>
+<p align="left">Sou formado em Ciência da Computação e tenho mais de 6 anos de experiência no mercado de tecnologia com conhecimento em:<br>     - Data Analysis<br>     - Cloud Computing <br>     - User Support <br>     - IT Infrastructure<br><br>Através de cursos, projetos como freelancaer e certificações, adquiri conhecimento em:<br>- SQL<br>- Excel<br>- Power BI<br>- Python<br>- ETL<br>- AWS<br>- Microsoft Power Platform<br>- Google Analytics<br>- JavaScript<br>- IAAS<br>- LGPD.</p>
 
 ###
 
