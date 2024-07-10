@@ -1,5 +1,7 @@
 <h1 align="left">Olá! 👋 Tudo bem?</h1>
 
+<h6><a href="https://github.com/pedrohsouzadf/pedrohsouzadf/edit/main/README-pt.md">Clique aqui para o portfólio em inglês! </a> </h6>
+
 ###
 
 <p align="left">Bem-vindo a minha página!<br>Meu nome é Pedro Souza e sou um Analista de Dados!</p>
