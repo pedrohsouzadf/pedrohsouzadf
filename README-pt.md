@@ -1,6 +1,6 @@
 <h1 align="left">Olá! 👋 Tudo bem?</h1>
 
-<h6><a href="https://github.com/pedrohsouzadf/pedrohsouzadf/edit/main/README-pt.md">Clique aqui para o portfólio em inglês! </a> </h6>
+<h6><a href="https://github.com/pedrohsouzadf">Clique aqui para o portfólio em inglês! </a> </h6>
 
 ###
 
