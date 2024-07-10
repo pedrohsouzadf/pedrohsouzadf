@@ -58,4 +58,6 @@
 
 [Bike Sales in Excel](https://github.com/pedrohsouzadf/pedrohsouzadf/blob/main/Excel%20Project%20-%20Portfolio.xlsx)
 
+![Bike Sales in Excel](https://github.com/pedrohsouzadf/pedrohsouzadf/blob/main/bikesalesexcel.png)
+
 ###
