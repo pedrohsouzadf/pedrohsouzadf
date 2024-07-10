@@ -48,7 +48,8 @@
 
 ###
 
-<p align="left">Inventory Analysis in Power BI</p>
+<p align="left">Analyzing Customer Churn in Power BI</p>
+<p align="left">HR Analytics in Power BI</p>
 
 ###
 
