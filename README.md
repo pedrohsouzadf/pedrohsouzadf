@@ -52,6 +52,8 @@
 
 [HR Analytics in Power BI](https://github.com/pedrohsouzadf/pedrohsouzadf/blob/main/HR%20Analytics%20in%20Power%20%20BI.pbix)
 
+![HR Analytics](https://github.com/pedrohsouzadf/pedrohsouzadf/blob/main/power%20bi.gif)
+
 ###
 
 <h2 align="left">My projects in Excel:</h2>
