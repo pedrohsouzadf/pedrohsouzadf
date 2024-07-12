@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">Analyzing Customer Churn in Power BI</p>
+[Analyzing Customer Churn in Power BI](https://github.com/pedrohsouzadf/pedrohsouzadf/blob/main/Analyzing%20Customer%20Churn%20in%20Power%20BI.pbix)
 <p align="left">HR Analytics in Power BI</p>
 
 ###
